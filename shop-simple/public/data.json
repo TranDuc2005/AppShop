@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Áo Givenchy Madonna hot nhất 2013 ",
+      "description": "Áo thun cotton mềm mại, đẳng cấp, chất chơi người dơi.",
+      "image": "/images/ao1.jpg",
+      "price": 120000,
+      "createdAt": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "name": "Vòng cổ Chrome heart cao cấp hot trend",
+      "description": "Chất liệu làm từ bạc, thiết kế mới nhất trong bộ sưu tập hè 2025, ",
+      "image": "/images/phu_kien2.jpg",
+      "price": 240000,
+      "createdAt": "2024-02-25"
+    },
+    {
+      "id": 3,
+      "name": "Quần short Stussy form rộng vải dù 2024",
+      "description": "Quần short Stussy vải dù, mặc thoải mái, mát mẻ trong mùa hè này",
+      "image": "/images/quan1.jpg",
+      "price": 180000,
+      "createdAt": "2024-01-30"
+    },
+    {
+      "id": 4,
+      "name": "Quần dài Chrome heart hiphop đường phố",
+      "description": "Quần Chrome heart vải denim, phong cách bụi bặm đường phố.",
+      "image": "/images/quan2.jpg",
+      "price": 320000,
+      "createdAt": "2024-04-01"
+    },
+    {
+      "id": 5,
+      "name": "Áo Chrome heart mới nhất hè 2025",
+      "description": "Áo T-shirt chrome heart chất liệu cotton co dãn thoáng mát.",
+      "image": "/images/ao2.jpg",
+      "price": 270000,
+      "createdAt": "2024-03-21"
+    },
+    {
+      "id": 6,
+      "name": "Giày Rick owens đơn giản thời trang",
+      "description": "Giày Rick owens basic dễ phối đồ, phù hợp với cả đi học đi chơi",
+      "image": "/images/giay1.jpg",
+      "price": 95000,
+      "createdAt": "2024-03-15"
+    },
+    {
+      "id": 7,
+      "name": "Dép Crocs Bape nhật bản hot nhất 2025",
+      "description": "Crocs đang được săn đón, với thiết kế mới lạ của BAPE.",
+      "image": "/images/dep.jpg",
+      "price": 85000,
+      "createdAt": "2024-03-19"
+    },
+    {
+      "id": 8,
+      "name": "Nhẫn Chrome heart bạc cao cấp",
+      "description": "Nhẫn Chrome heart làm từ bạc, mới ra mắt hè 2025",
+      "image": "/images/phu_kien1.jpg",
+      "price": 115000,
+      "createdAt": "2024-03-28"
+    },
+    {
+      "id": 9,
+      "name": "Mũ Chicago bulls 66 màu trắng xanh",
+      "description": "Mũ Chicago bulls basic dày dặn đội rất êm đầu.",
+      "image": "/images/mu1.jpg",
+      "price": 70000,
+      "createdAt": "2024-03-31"
+    },
+    {
+      "id": 10,
+      "name": "Mũ BOY hiphop nam hot nhất hè 2025 ",
+      "description": "Mũ BOY phong cách hiphop đường phố hot trend vài năm về trước.",
+      "image": "/images/mu2.jpg",
+      "price": 150000,
+      "createdAt": "2024-04-02"
+    }
+  ]
+  
