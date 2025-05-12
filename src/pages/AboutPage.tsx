@@ -7,7 +7,7 @@ const AboutPage = () => (
     <div className="about-section">
       <h4>Câu chuyện của chúng tôi</h4>
       <p>
-        Cửa hàng Thời Trang TLU được thành lập vào năm 2025 do ông Trần Ngọc Đức sáng lập , xuất phát từ ý tưởng tạo ra một không gian mua sắm
+        Cửa hàng Thời Trang TLU được thành lập vào năm 2025 do ông Trần Ngọc Đức và ông Trịnh Hoàn Hảo sáng lập , xuất phát từ ý tưởng tạo ra một không gian mua sắm
         thời trang phù hợp với nhu cầu và ngân sách của sinh viên Đại học Thăng Long. Từ một cửa hàng nhỏ cạnh trường, chúng tôi đã phát triển và mở rộng để phục vụ không chỉ sinh viên mà còn cả cộng đồng
         yêu thích thời trang trong khu vực.
       </p>
