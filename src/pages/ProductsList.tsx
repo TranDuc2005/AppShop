@@ -4,6 +4,10 @@ import { useNavigate } from 'react-router-dom';
 import SearchBar from '../components/SearchBar';
 import ProductCard from '../components/ProductCard';
 
+import { useLocation } from 'react-router-dom';
+
+
+
 interface Product {
   id: number;
   name: string;
@@ -26,6 +30,7 @@ const getProductCategory = (product: Product): string => {
 };
 
 const ProductsList = () => {
+  const location = useLocation(); 
   const [products, setProducts] = useState<Product[]>([]);
   const [search, setSearch] = useState('');
   const [error, setError] = useState('');
@@ -63,7 +68,7 @@ const ProductsList = () => {
   }, [location.search]);
 
   // Lọc sản phẩm theo tên và danh mục
-  const filtered = products.filter(p => {
+  const filtered = products.filter(p => {products
     const matchesSearch = p.name.toLowerCase().includes(search.toLowerCase());
     const matchesCategory = selectedCategory === 'all' || p.category === selectedCategory;
     return matchesSearch && matchesCategory;
